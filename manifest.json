@@ -1,0 +1,9 @@
+{
+  "name": "Wesam",
+  "short_name": "Wesam",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#22d3ee",
+  "icons": []
+}
